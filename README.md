@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hiya! ☜(⌒▽⌒)☞
 
-<!--
-**lixhuynh/lixhuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Emily Huynh** *(Github: lixhuynh)*, and I'm an undergraduate student at Rice University studying computer science. Feel free to check out some of the things I've done on this page!
 
-Here are some ideas to get you started:
+### Languages
+❤️ Python 
+👍 HTML/CSS, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+❤️ Git (of course), Bash
+
+### OS
+❤️ Windows, Linux (Ubuntu)
+
+### Other stuff
+❤️ Video games, fantasy & sci-fi
+👍 Writing, drawing
