@@ -1,17 +1,18 @@
 # Hiya! ☜(⌒▽⌒)☞
 
-My name is **Emily Huynh** *(Github: lixhuynh)*, and I'm an undergraduate student at Rice University studying computer science. Feel free to check out some of the things I've done on this page!
+My name is **Emily Huynh** *(Github: lixhuynh)*, and I'm an undergraduate student at Rice University studying computer science.
 
-### Languages
-❤️ Python 
-👍 HTML/CSS, Java
+-----
 
-### Tools
-❤️ Git (of course), Bash
+### 💬 Languages
+*Python,* HTML/CSS, Java
 
-### OS
-❤️ Windows, Linux (Ubuntu)
+### 🔧 Tools 
+*Git (of course), Windows OS,* Bash, Linux OS (Ubuntu)
 
-### Other stuff
-❤️ Video games, fantasy & sci-fi
-👍 Writing, drawing
+### 🪴 Outside interests
+*Fantasy & sci-fi, video games,* drawing, writing
+
+-----
+
+It's a pleasure to meet you! Feel free to check out the things I've done on this page.
