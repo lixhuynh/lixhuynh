@@ -5,13 +5,13 @@ My name is **Emily Huynh** *(Github: lixhuynh)*, and I'm an undergraduate studen
 -----
 
 ### 💬 Languages
-*Python, HTML/CSS,* Java
+Python, HTML/CSS, Java
 
 ### 🔧 Tools 
-*Windows OS,* Bash, Git, Linux OS (Ubuntu)
+Windows OS, Git, Linux OS (Ubuntu), Unix Shell
 
 ### 🪴 Outside interests
-*Fantasy & sci-fi, video games,* drawing, writing
+Fantasy and sci-fi, video games, drawing, creative writing
 
 -----
 
