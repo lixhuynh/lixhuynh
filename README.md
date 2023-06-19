@@ -5,4 +5,4 @@ I like to write, read science-fiction novels, and occasionally type nonsense int
 
 Feel free to check out some things I've done on this page!
 
-![Top Languages](https://github-readme-stats-384c12ofc-lixhuynh.vercel.app/api/top-langs/?username=lixhuynh&layout=compact)
+![Top Languages](https://github-readme-stats-384c12ofc-lixhuynh.vercel.app/api/top-langs/?username=lixhuynh&layout=compact&size_weight=0.2&count_weight=0.8)
